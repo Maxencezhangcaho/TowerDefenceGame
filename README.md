@@ -6,8 +6,10 @@ Demo tower deffence game.
 Some spiders attacking player base. Four towers shoots on spiders.
 Towers uses amo charges. 
 Commands:
-left mouse left click - choose tower 
-space - add an amo charge (default 15U).
+Move camera: W,A,S,D
+Rotate Camera: drag with left mouse button
+Chose tower: left mouse left click 
+Add an amo charge (default 15U): space
 If spider come close to base he attacks. Player health drops 5U for every attack. After first attack base start to 
 generate a smoke signal that is proportional to health damage.
 
